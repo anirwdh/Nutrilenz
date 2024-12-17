@@ -3,6 +3,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
+![nutrilenz_logo](https://github.com/user-attachments/assets/c9c9f75a-6cbb-43dd-8660-59fd7a9cf3b5)
+
 
 NutriLenz is a Flutter-based mobile application designed to provide comprehensive nutritional information for various foods. Users can effortlessly obtain detailed nutrition data through voice commands, barcode scanning, or text searches. Additionally, NutriLenz offers personalized daily nutrition intake recommendations tailored for both men and women based on age, exercise level, height, and weight.
 
@@ -10,19 +12,12 @@ NutriLenz is a Flutter-based mobile application designed to provide comprehensiv
 
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
 - **Voice Search:** Use voice commands to search for food items and retrieve their nutritional information.
-- **Barcode Scanning:** Quickly scan food barcodes to get instant nutrition details.
+- **food Scanning:** Quickly scan food  to get instant nutrition details.
 - **Text Search:** Manually search for foods using text input.
 - **Personalized Nutrition Intake:** Calculate daily recommended nutrition intake based on user-specific parameters such as age, gender, exercise level, height, and weight.
 - **Comprehensive Nutrition Data:** Access detailed information including calories, macronutrients, vitamins, minerals, and more.
@@ -30,13 +25,14 @@ NutriLenz is a Flutter-based mobile application designed to provide comprehensiv
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](<img width="1617" alt="Screenshot 2024-12-17 at 6 29 23 PM" src="https://github.com/user-attachments/assets/c887454b-40c6-4a66-8e78-abcf4184266c" />
+)
 *Home screen displaying search options.*
 
-![Nutrition Details](screenshots/nutrition_details.png)
-*Detailed nutrition information for a selected food item.*
 
-![Personalized Intake](screenshots/personalized_intake.png)
+
+![Personalized Intake](<img width="1617" alt="Screenshot 2024-12-17 at 6 30 08 PM" src="https://github.com/user-attachments/assets/679ed0ea-b65a-4b5e-9e3c-53a87dfac753" />
+)
 *Personalized daily nutrition intake recommendations.*
 
 ## Getting Started
@@ -49,9 +45,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 - An IDE like [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with Flutter and Dart plugins.
 - A physical device or emulator to run the application.
 
-### Installation
 
-1. **Clone the repository:**
-
-   ```bash
    git clone https://github.com/yourusername/nutrilenz.git
