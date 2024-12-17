@@ -1,0 +1,1955 @@
+{
+    "mockFoodDB": {
+        "100g chicken": {
+            "calories": 165.0,
+            "protein": 31.0,
+            "carbs": 0.0,
+            "fats": 3.6,
+            "zinc": 2.7,
+            "magnesium": 25.0,
+            "vitaminA": 0.0,
+            "vitaminB": 5.0,
+            "iron": 0.9,
+            "omega3": 0.1
+        },
+        "1 egg": {
+            "calories": 72.0,
+            "protein": 6.3,
+            "carbs": 0.4,
+            "fats": 4.8,
+            "zinc": 0.6,
+            "magnesium": 10.0,
+            "vitaminA": 270.0,
+            "vitaminB": 0.5,
+            "iron": 1.0,
+            "omega3": 0.02
+        },
+        "100g rice": {
+            "calories": 130.0,
+            "protein": 2.7,
+            "carbs": 28.0,
+            "fats": 0.3,
+            "zinc": 1.2,
+            "magnesium": 25.0,
+            "vitaminA": 0.0,
+            "vitaminB": 1.0,
+            "iron": 0.8,
+            "omega3": 0.0
+        },
+        "250ml milk": {
+            "calories": 150.0,
+            "protein": 8.0,
+            "carbs": 12.0,
+            "fats": 8.0,
+            "zinc": 0.8,
+            "magnesium": 25.0,
+            "vitaminA": 395.0,
+            "vitaminB": 0.5,
+            "iron": 0.1,
+            "omega3": 0.0
+        },
+        "100g paneer": {
+            "calories": 265.0,
+            "protein": 18.0,
+            "carbs": 1.2,
+            "fats": 21.0,
+            "zinc": 4.0,
+            "magnesium": 25.0,
+            "vitaminA": 350.0,
+            "vitaminB": 0.4,
+            "iron": 0.6,
+            "omega3": 0.05
+        },
+        "100g spinach": {
+            "calories": 23.0,
+            "protein": 2.9,
+            "carbs": 3.6,
+            "fats": 0.4,
+            "zinc": 0.5,
+            "magnesium": 79.0,
+            "vitaminA": 469.0,
+            "vitaminB": 0.4,
+            "iron": 2.7,
+            "omega3": 0.1
+        },
+        "1 chapati": {
+            "calories": 104.0,
+            "protein": 3.0,
+            "carbs": 18.0,
+            "fats": 3.0,
+            "zinc": 1.0,
+            "magnesium": 22.0,
+            "vitaminA": 0.0,
+            "vitaminB": 0.5,
+            "iron": 1.3,
+            "omega3": 0.0
+        },
+        "100g lentils": {
+            "calories": 116.0,
+            "protein": 9.0,
+            "carbs": 20.0,
+            "fats": 0.4,
+            "zinc": 1.3,
+            "magnesium": 36.0,
+            "vitaminA": 0.0,
+            "vitaminB": 0.5,
+            "iron": 3.5,
+            "omega3": 0.0
+        },
+        "100g fish (rohu)": {
+            "calories": 97.0,
+            "protein": 17.0,
+            "carbs": 0.0,
+            "fats": 3.0,
+            "zinc": 1.0,
+            "magnesium": 30.0,
+            "vitaminA": 500.0,
+            "vitaminB": 0.3,
+            "iron": 0.5,
+            "omega3": 1.0
+        },
+        "100g apple": {
+            "calories": 52.0,
+            "protein": 0.3,
+            "carbs": 14.0,
+            "fats": 0.2,
+            "zinc": 0.1,
+            "magnesium": 5.0,
+            "vitaminA": 54.0,
+            "vitaminB": 0.1,
+            "iron": 0.1,
+            "omega3": 0.0
+        },
+        "100g mango": {
+            "calories": 60.0,
+            "protein": 0.8,
+            "carbs": 15.0,
+            "fats": 0.4,
+            "zinc": 0.1,
+            "magnesium": 30.0,
+            "vitaminA": 54.0,
+            "vitaminB": 0.3,
+            "iron": 0.2,
+            "omega3": 0.0
+        },
+        "100g banana": {
+            "calories": 89.0,
+            "protein": 1.1,
+            "carbs": 23.0,
+            "fats": 0.3,
+            "zinc": 0.2,
+            "magnesium": 27.0,
+            "vitaminA": 64.0,
+            "vitaminB": 0.2,
+            "iron": 0.3,
+            "omega3": 0.0
+        },
+        "100g ghee": {
+            "calories": 876.0,
+            "protein": 0.0,
+            "carbs": 0.0,
+            "fats": 99.8,
+            "zinc": 0.0,
+            "magnesium": 0.0,
+            "vitaminA": 200.0,
+            "vitaminB": 0.0,
+            "iron": 0.0,
+            "omega3": 0.0
+        },
+        "1 samosa": {
+            "calories": 250.0,
+            "protein": 3.0,
+            "carbs": 35.0,
+            "fats": 12.0,
+            "zinc": 0.5,
+            "magnesium": 10.0,
+            "vitaminA": 30.0,
+            "vitaminB": 0.3,
+            "iron": 1.2,
+            "omega3": 0.1
+        },
+        "1 dosa": {
+            "calories": 168.0,
+            "protein": 3.9,
+            "carbs": 30.0,
+            "fats": 3.1,
+            "zinc": 0.5,
+            "magnesium": 12.0,
+            "vitaminA": 15.0,
+            "vitaminB": 0.5,
+            "iron": 1.0,
+            "omega3": 0.1
+        },
+        "100ml chai": {
+            "calories": 45.0,
+            "protein": 1.0,
+            "carbs": 6.0,
+            "fats": 2.0,
+            "zinc": 0.1,
+            "magnesium": 3.0,
+            "vitaminA": 10.0,
+            "vitaminB": 0.1,
+            "iron": 0.1,
+            "omega3": 0.0
+        },
+        "100g aloo gobi": {
+            "macros": {
+                "calories": 80.0,
+                "protein": 2.5,
+                "carbs": 12.0,
+                "fats": 3.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 18.0,
+                "vitamin A": 100.0,
+                "vitamin B": 0.1,
+                "iron": 1.1,
+                "omega-3": 0.0
+            }
+        },
+        "100g sambar": {
+            "macros": {
+                "calories": 55.0,
+                "protein": 2.5,
+                "carbs": 9.0,
+                "fats": 1.5
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 15.0,
+                "vitamin A": 200.0,
+                "vitamin B": 0.2,
+                "iron": 1.0,
+                "omega-3": 0.0
+            }
+        },
+        "2 pieces medu vada (100g)": {
+            "macros": {
+                "calories": 190.0,
+                "protein": 6.0,
+                "carbs": 22.0,
+                "fats": 9.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 20.0,
+                "vitamin A": 50.0,
+                "vitamin B": 0.3,
+                "iron": 1.5,
+                "omega-3": 0.0
+            }
+        },
+        "100g tandoori chicken": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 25.0,
+                "carbs": 3.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 1.0,
+                "magnesium": 30.0,
+                "vitamin A": 60.0,
+                "vitamin B": 0.5,
+                "iron": 1.2,
+                "omega-3": 0.1
+            }
+        },
+        "100g butter chicken": {
+            "macros": {
+                "calories": 230.0,
+                "protein": 12.0,
+                "carbs": 8.0,
+                "fats": 18.0
+            },
+            "micros": {
+                "zinc": 1.0,
+                "magnesium": 20.0,
+                "vitamin A": 400.0,
+                "vitamin B": 0.2,
+                "iron": 1.1,
+                "omega-3": 0.0
+            }
+        },
+        "100g korma": {
+            "macros": {
+                "calories": 190.0,
+                "protein": 8.0,
+                "carbs": 7.0,
+                "fats": 15.0
+            },
+            "micros": {
+                "zinc": 0.8,
+                "magnesium": 25.0,
+                "vitamin A": 300.0,
+                "vitamin B": 0.2,
+                "iron": 1.3,
+                "omega-3": 0.0
+            }
+        },
+        "100g malai kofta": {
+            "macros": {
+                "calories": 230.0,
+                "protein": 5.0,
+                "carbs": 15.0,
+                "fats": 17.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 18.0,
+                "vitamin A": 150.0,
+                "vitamin B": 0.1,
+                "iron": 0.8,
+                "omega-3": 0.0
+            }
+        },
+        "100g biryani": {
+            "macros": {
+                "calories": 190.0,
+                "protein": 7.0,
+                "carbs": 25.0,
+                "fats": 6.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 22.0,
+                "vitamin A": 50.0,
+                "vitamin B": 0.2,
+                "iron": 1.0,
+                "omega-3": 0.0
+            }
+        },
+        "1 piece gulab jamun 50g": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 3.0,
+                "carbs": 25.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 5.0,
+                "vitamin A": 40.0,
+                "vitamin B": 0.0,
+                "iron": 0.2,
+                "omega-3": 0.0
+            }
+        },
+        "1 glass lassi (200ml)": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 6.0,
+                "carbs": 20.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.7,
+                "magnesium": 25.0,
+                "vitamin A": 200.0,
+                "vitamin B": 0.5,
+                "iron": 0.1,
+                "omega-3": 0.0
+            }
+        },
+        "100g gajar ka halwa": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 2.0,
+                "carbs": 25.0,
+                "fats": 6.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 10.0,
+                "vitamin A": 120.0,
+                "vitamin B": 0.1,
+                "iron": 0.3,
+                "omega-3": 0.0
+            }
+        },
+        "100g baingan masala": {
+            "macros": {
+                "calories": 110.0,
+                "protein": 2.5,
+                "carbs": 8.0,
+                "fats": 8.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 20.0,
+                "vitamin A": 50.0,
+                "vitamin B": 0.1,
+                "iron": 1.0,
+                "omega-3": 0.0
+            }
+        },
+        "100g bhindi masala": {
+            "macros": {
+                "calories": 95.0,
+                "protein": 2.0,
+                "carbs": 12.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 18.0,
+                "vitamin A": 200.0,
+                "vitamin B": 0.1,
+                "iron": 1.2,
+                "omega-3": 0.0
+            }
+        },
+        "100g bombay aloo": {
+            "macros": {
+                "calories": 130.0,
+                "protein": 2.0,
+                "carbs": 18.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 15.0,
+                "vitamin A": 10.0,
+                "vitamin B": 0.2,
+                "iron": 1.0,
+                "omega-3": 0.0
+            }
+        },
+        "100g chana dal": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 6.0,
+                "carbs": 18.0,
+                "fats": 2.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 28.0,
+                "vitamin A": 0.0,
+                "vitamin B": 0.3,
+                "iron": 1.5,
+                "omega-3": 0.0
+            }
+        },
+        "100g chana masala": {
+            "macros": {
+                "calories": 140.0,
+                "protein": 6.0,
+                "carbs": 20.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 30.0,
+                "vitamin A": 100.0,
+                "vitamin B": 0.2,
+                "iron": 2.0,
+                "omega-3": 0.0
+            }
+        },
+        "100g palak paneer": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 6.0,
+                "carbs": 6.0,
+                "fats": 8.0
+            },
+            "micros": {
+                "zinc": 0.6,
+                "magnesium": 45.0,
+                "vitamin A": 500.0,
+                "vitamin B": 0.3,
+                "iron": 1.8,
+                "omega-3": 0.1
+            }
+        },
+        "1 piece kulfi (50g)": {
+            "macros": {
+                "calories": 125.0,
+                "protein": 3.0,
+                "carbs": 15.0,
+                "fats": 6.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 10.0,
+                "vitamin A": 200.0,
+                "vitamin B": 0.1,
+                "iron": 0.1,
+                "omega-3": 0.0
+            }
+        },
+        "100g dal makhani": {
+            "macros": {
+                "calories": 130.0,
+                "protein": 6.0,
+                "carbs": 17.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 25.0,
+                "vitamin A": 100.0,
+                "vitamin B": 0.2,
+                "iron": 2.0,
+                "omega-3": 0.0
+            }
+        },
+        "1 piece naan (60g)": {
+            "macros": {
+                "calories": 180.0,
+                "protein": 4.0,
+                "carbs": 30.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 10.0,
+                "vitamin A": 0.0,
+                "vitamin B": 0.2,
+                "iron": 1.0,
+                "omega-3": 0.0
+            }
+        },
+        "100g vegetable biryani": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 4.0,
+                "carbs": 20.0,
+                "fats": 3.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 22.0,
+                "vitamin A": 150.0,
+                "vitamin B": 0.1,
+                "iron": 1.2,
+                "omega-3": 0.0
+            }
+        },
+        "1 glass masala chass (200ml)": {
+            "macros": {
+                "calories": 60.0,
+                "protein": 2.0,
+                "carbs": 6.0,
+                "fats": 2.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 10.0,
+                "vitamin A": 100.0,
+                "vitamin B": 0.1,
+                "iron": 0.2,
+                "omega-3": 0.0
+            }
+        },
+        "1 cup chai (200ml)": {
+            "macros": {
+                "calories": 100.0,
+                "protein": 2.0,
+                "carbs": 15.0,
+                "fats": 3.0
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 8.0,
+                "vitamin A": 50.0,
+                "vitamin B": 0.1,
+                "iron": 0.2,
+                "omega-3": 0.0
+            }
+        },
+        "1 piece gulab jamun (50g)": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 2.0,
+                "carbs": 25.0,
+                "fats": 6.0
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 5.0,
+                "vitamin A": 30.0,
+                "vitamin B": 0.0,
+                "iron": 0.1,
+                "omega-3": 0.0
+            }
+        },
+        "100g aam panna": {
+            "macros": {
+                "calories": 50.0,
+                "protein": 0.5,
+                "carbs": 12.0,
+                "fats": 0.1
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 8.0,
+                "vitamin A": 300.0,
+                "vitamin B": 0.1,
+                "iron": 0.2,
+                "omega-3": 0.0
+            }
+        },
+        "1 piece veg spring roll (50g)": {
+            "macros": {
+                "calories": 90.0,
+                "protein": 2.0,
+                "carbs": 10.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 6.0,
+                "vitamin A": 200.0,
+                "vitamin B": 0.1,
+                "iron": 0.4,
+                "omega-3": 0.0
+            }
+        },
+        "100g honey chilly potato": {
+            "macros": {
+                "calories": 220.0,
+                "protein": 3.0,
+                "carbs": 35.0,
+                "fats": 8.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 10.0,
+                "vitamin A": 150.0,
+                "vitamin B": 0.1,
+                "iron": 0.5,
+                "omega-3": 0.0
+            }
+        },
+        "100g crispy corn": {
+            "macros": {
+                "calories": 190.0,
+                "protein": 4.0,
+                "carbs": 30.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 12.0,
+                "vitamin A": 100.0,
+                "vitamin B": 0.2,
+                "iron": 0.8,
+                "omega-3": 0.0
+            }
+        },
+        "100g veg manchurian": {
+            "macros": {
+                "calories": 180.0,
+                "protein": 5.0,
+                "carbs": 20.0,
+                "fats": 8.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 15.0,
+                "vitamin A": 120.0,
+                "vitamin B": 0.2,
+                "iron": 1.0,
+                "omega-3": 0.0
+            }
+        },
+        "100g szechwan chicken": {
+            "macros": {
+                "calories": 190.0,
+                "protein": 15.0,
+                "carbs": 10.0,
+                "fats": 10.0
+            },
+            "micros": {
+                "zinc": 0.8,
+                "magnesium": 20.0,
+                "vitamin A": 100.0,
+                "vitamin B": 0.4,
+                "iron": 1.5,
+                "omega-3": 0.1
+            }
+        },
+        "100g chilli chicken": {
+            "macros": {
+                "calories": 200.0,
+                "protein": 16.0,
+                "carbs": 8.0,
+                "fats": 12.0
+            },
+            "micros": {
+                "zinc": 0.7,
+                "magnesium": 18.0,
+                "vitamin A": 50.0,
+                "vitamin B": 0.4,
+                "iron": 1.3,
+                "omega-3": 0.1
+            }
+        },
+        "1 piece chicken lollipop (50g)": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 9.0,
+                "carbs": 3.0,
+                "fats": 8.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 10.0,
+                "vitamin A": 30.0,
+                "vitamin B": 0.3,
+                "iron": 1.0,
+                "omega-3": 0.1
+            }
+        },
+        "100g drums of heaven": {
+            "macros": {
+                "calories": 220.0,
+                "protein": 18.0,
+                "carbs": 6.0,
+                "fats": 14.0
+            },
+            "micros": {
+                "zinc": 0.7,
+                "magnesium": 25.0,
+                "vitamin A": 50.0,
+                "vitamin B": 0.5,
+                "iron": 2.0,
+                "omega-3": 0.2
+            }
+        }
+    },
+    "tandoori_dishes": {
+        "100g paneer tikka": {
+            "macros": {
+                "calories": 260.0,
+                "protein": 14.0,
+                "carbs": 8.0,
+                "fats": 20.0
+            },
+            "micros": {
+                "zinc": 1.2,
+                "magnesium": 18.0,
+                "vitamin_a": 200.0,
+                "vitamin_b": 0.3,
+                "iron": 1.0,
+                "omega_3": 0.0
+            }
+        },
+        "100g tandoori chaap": {
+            "macros": {
+                "calories": 180.0,
+                "protein": 15.0,
+                "carbs": 5.0,
+                "fats": 10.0
+            },
+            "micros": {
+                "zinc": 0.8,
+                "magnesium": 20.0,
+                "vitamin_a": 100.0,
+                "vitamin_b": 0.4,
+                "iron": 1.2,
+                "omega_3": 0.0
+            }
+        },
+        "100g tandoori malai chaap": {
+            "macros": {
+                "calories": 210.0,
+                "protein": 14.0,
+                "carbs": 6.0,
+                "fats": 14.0
+            },
+            "micros": {
+                "zinc": 0.9,
+                "magnesium": 15.0,
+                "vitamin_a": 150.0,
+                "vitamin_b": 0.4,
+                "iron": 1.0,
+                "omega_3": 0.0
+            }
+        },
+        "100g hara bhara kebab": {
+            "macros": {
+                "calories": 180.0,
+                "protein": 6.0,
+                "carbs": 20.0,
+                "fats": 9.0
+            },
+            "micros": {
+                "zinc": 0.6,
+                "magnesium": 22.0,
+                "vitamin_a": 250.0,
+                "vitamin_b": 0.2,
+                "iron": 1.8,
+                "omega_3": 0.0
+            }
+        },
+        "100g chicken tikka": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 22.0,
+                "carbs": 2.0,
+                "fats": 6.0
+            },
+            "micros": {
+                "zinc": 0.9,
+                "magnesium": 30.0,
+                "vitamin_a": 100.0,
+                "vitamin_b": 0.5,
+                "iron": 1.5,
+                "omega_3": 0.2
+            }
+        },
+        "100g murg malai tikka": {
+            "macros": {
+                "calories": 190.0,
+                "protein": 20.0,
+                "carbs": 4.0,
+                "fats": 10.0
+            },
+            "micros": {
+                "zinc": 0.7,
+                "magnesium": 25.0,
+                "vitamin_a": 150.0,
+                "vitamin_b": 0.5,
+                "iron": 1.2,
+                "omega_3": 0.2
+            }
+        },
+        "100g tandoori chicken": {
+            "macros": {
+                "calories": 170.0,
+                "protein": 21.0,
+                "carbs": 2.0,
+                "fats": 8.0
+            },
+            "micros": {
+                "zinc": 0.8,
+                "magnesium": 28.0,
+                "vitamin_a": 120.0,
+                "vitamin_b": 0.5,
+                "iron": 1.3,
+                "omega_3": 0.2
+            }
+        },
+        "1 piece chicken wing (50g)": {
+            "macros": {
+                "calories": 100.0,
+                "protein": 8.0,
+                "carbs": 1.0,
+                "fats": 7.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 12.0,
+                "vitamin_a": 60.0,
+                "vitamin_b": 0.3,
+                "iron": 0.7,
+                "omega_3": 0.1
+            }
+        },
+        "100g afgani chicken tikka": {
+            "macros": {
+                "calories": 200.0,
+                "protein": 21.0,
+                "carbs": 3.0,
+                "fats": 10.0
+            },
+            "micros": {
+                "zinc": 1.0,
+                "magnesium": 27.0,
+                "vitamin_a": 100.0,
+                "vitamin_b": 0.5,
+                "iron": 1.5,
+                "omega_3": 0.2
+            }
+        },
+        "100g tandoori afgani chicken": {
+            "macros": {
+                "calories": 210.0,
+                "protein": 22.0,
+                "carbs": 3.0,
+                "fats": 11.0
+            },
+            "micros": {
+                "zinc": 1.1,
+                "magnesium": 28.0,
+                "vitamin_a": 120.0,
+                "vitamin_b": 0.5,
+                "iron": 1.6,
+                "omega_3": 0.2
+            }
+        }
+    },
+    "rice_data": {
+        "100g basmati rice (cooked)": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 2.5,
+                "carbs": 25.0,
+                "fats": 0.3
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 8.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.1,
+                "iron": 0.2,
+                "omega_3": 0.0
+            }
+        },
+        "100g vegetable biryani": {
+            "macros": {
+                "calories": 170.0,
+                "protein": 4.0,
+                "carbs": 30.0,
+                "fats": 3.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 15.0,
+                "vitamin_a": 200.0,
+                "vitamin_b": 0.2,
+                "iron": 1.0,
+                "omega_3": 0.0
+            }
+        }
+    },
+    "desserts_data": {
+        "1 piece gulab jamun (50g)": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 2.0,
+                "carbs": 30.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 5.0,
+                "vitamin_a": 50.0,
+                "vitamin_b": 0.1,
+                "iron": 0.5,
+                "omega_3": 0.0
+            }
+        },
+        "1 piece jalebi (20g)": {
+            "macros": {
+                "calories": 100.0,
+                "protein": 0.5,
+                "carbs": 22.0,
+                "fats": 2.0
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 3.0,
+                "vitamin_a": 10.0,
+                "vitamin_b": 0.0,
+                "iron": 0.2,
+                "omega_3": 0.0
+            }
+        },
+        "100g kheer": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 3.0,
+                "carbs": 25.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 12.0,
+                "vitamin_a": 100.0,
+                "vitamin_b": 0.2,
+                "iron": 0.8,
+                "omega_3": 0.0
+            }
+        }
+    },
+    "others_data": {
+        "100g mushroom masala": {
+            "macros": {
+                "calories": 140.0,
+                "protein": 5.0,
+                "carbs": 10.0,
+                "fats": 8.0
+            },
+            "micros": {
+                "zinc": 0.6,
+                "magnesium": 15.0,
+                "vitamin_a": 300.0,
+                "vitamin_b": 0.4,
+                "iron": 1.0,
+                "omega_3": 0.0
+            }
+        },
+        "100g saag aloo": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 3.0,
+                "carbs": 18.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 10.0,
+                "vitamin_a": 500.0,
+                "vitamin_b": 0.2,
+                "iron": 1.5,
+                "omega_3": 0.0
+            }
+        }
+    },
+    "food_data": {
+        "100g chicken biryani": {
+            "macros": {
+                "calories": 220.0,
+                "protein": 12.0,
+                "carbs": 30.0,
+                "fats": 7.0
+            },
+            "micros": {
+                "zinc": 1.0,
+                "magnesium": 15.0,
+                "vitamin_a": 100.0,
+                "vitamin_b": 0.5,
+                "iron": 1.2,
+                "omega_3": 0.2
+            }
+        },
+        "100g lamb biryani": {
+            "macros": {
+                "calories": 250.0,
+                "protein": 14.0,
+                "carbs": 28.0,
+                "fats": 10.0
+            },
+            "micros": {
+                "zinc": 2.0,
+                "magnesium": 18.0,
+                "vitamin_a": 80.0,
+                "vitamin_b": 0.6,
+                "iron": 2.0,
+                "omega_3": 0.1
+            }
+        },
+        "100g egg rice": {
+            "macros": {
+                "calories": 160.0,
+                "protein": 6.0,
+                "carbs": 25.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 12.0,
+                "vitamin_a": 50.0,
+                "vitamin_b": 0.4,
+                "iron": 1.0,
+                "omega_3": 0.1
+            }
+        },
+        "1 pita bread (60g)": {
+            "macros": {
+                "calories": 170.0,
+                "protein": 6.0,
+                "carbs": 34.0,
+                "fats": 1.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 10.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.2,
+                "iron": 1.5,
+                "omega_3": 0.0
+            }
+        },
+        "1 Turkish bread slice (50g)": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 4.0,
+                "carbs": 24.0,
+                "fats": 2.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 8.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.1,
+                "iron": 1.0,
+                "omega_3": 0.0
+            }
+        },
+        "100g dal fry": {
+            "macros": {
+                "calories": 140.0,
+                "protein": 5.0,
+                "carbs": 20.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 20.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.4,
+                "iron": 1.0,
+                "omega_3": 0.0
+            }
+        },
+        "100g dal tadka": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 6.0,
+                "carbs": 18.0,
+                "fats": 7.0
+            },
+            "micros": {
+                "zinc": 0.6,
+                "magnesium": 22.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.5,
+                "iron": 1.2,
+                "omega_3": 0.0
+            }
+        },
+        "100g malai kofta": {
+            "macros": {
+                "calories": 240.0,
+                "protein": 6.0,
+                "carbs": 12.0,
+                "fats": 18.0
+            },
+            "micros": {
+                "zinc": 0.7,
+                "magnesium": 25.0,
+                "vitamin_a": 400.0,
+                "vitamin_b": 0.4,
+                "iron": 1.5,
+                "omega_3": 0.0
+            }
+        },
+        "1 piece cheesecake (80g)": {
+            "macros": {
+                "calories": 320.0,
+                "protein": 6.0,
+                "carbs": 30.0,
+                "fats": 20.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 10.0,
+                "vitamin_a": 100.0,
+                "vitamin_b": 0.3,
+                "iron": 0.8,
+                "omega_3": 0.1
+            }
+        },
+        "1 piece vanilla cheesecake (80g)": {
+            "macros": {
+                "calories": 310.0,
+                "protein": 6.0,
+                "carbs": 32.0,
+                "fats": 18.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 9.0,
+                "vitamin_a": 90.0,
+                "vitamin_b": 0.3,
+                "iron": 0.7,
+                "omega_3": 0.0
+            }
+        },
+        "1 tbsp mint sauce (15g)": {
+            "macros": {
+                "calories": 10.0,
+                "protein": 0.1,
+                "carbs": 2.0,
+                "fats": 0.2
+            },
+            "micros": {
+                "zinc": 0.0,
+                "magnesium": 1.0,
+                "vitamin_a": 5.0,
+                "vitamin_b": 0.0,
+                "iron": 0.1,
+                "omega_3": 0.0
+            }
+        },
+        "1 tbsp plum chutney (20g)": {
+            "macros": {
+                "calories": 35.0,
+                "protein": 0.2,
+                "carbs": 9.0,
+                "fats": 0.1
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 2.0,
+                "vitamin_a": 20.0,
+                "vitamin_b": 0.0,
+                "iron": 0.2,
+                "omega_3": 0.0
+            }
+        },
+        "1 plain poppadom (10g)": {
+            "macros": {
+                "calories": 50.0,
+                "protein": 2.0,
+                "carbs": 7.0,
+                "fats": 1.5
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 3.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.1,
+                "iron": 0.2,
+                "omega_3": 0.0
+            }
+        },
+        "1 roti (40g)": {
+            "macros": {
+                "calories": 120.0,
+                "protein": 3.0,
+                "carbs": 23.0,
+                "fats": 2.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 15.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.2,
+                "iron": 0.7,
+                "omega_3": 0.0
+            }
+        },
+        "1 butter roti (50g)": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 3.0,
+                "carbs": 24.0,
+                "fats": 4.5
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 15.0,
+                "vitamin_a": 20.0,
+                "vitamin_b": 0.2,
+                "iron": 0.7,
+                "omega_3": 0.0
+            }
+        },
+        "1 paratha (60g)": {
+            "macros": {
+                "calories": 200.0,
+                "protein": 3.0,
+                "carbs": 26.0,
+                "fats": 10.0
+            },
+            "micros": {
+                "zinc": 0.3,
+                "magnesium": 12.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.2,
+                "iron": 0.7,
+                "omega_3": 0.0
+            }
+        },
+        "1 butter paratha (70g)": {
+            "macros": {
+                "calories": 240.0,
+                "protein": 4.0,
+                "carbs": 28.0,
+                "fats": 14.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 14.0,
+                "vitamin_a": 50.0,
+                "vitamin_b": 0.2,
+                "iron": 0.8,
+                "omega_3": 0.0
+            }
+        },
+        "1 naan (60g)": {
+            "macros": {
+                "calories": 200.0,
+                "protein": 6.0,
+                "carbs": 34.0,
+                "fats": 4.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 12.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.3,
+                "iron": 0.9,
+                "omega_3": 0.0
+            }
+        },
+        "1 garlic naan (70g)": {
+            "macros": {
+                "calories": 220.0,
+                "protein": 7.0,
+                "carbs": 35.0,
+                "fats": 5.0
+            },
+            "micros": {
+                "zinc": 0.6,
+                "magnesium": 15.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.3,
+                "iron": 1.0,
+                "omega_3": 0.0
+            }
+        },
+        "1 paneer paratha (100g)": {
+            "macros": {
+                "calories": 300.0,
+                "protein": 8.0,
+                "carbs": 32.0,
+                "fats": 14.0
+            },
+            "micros": {
+                "zinc": 0.7,
+                "magnesium": 20.0,
+                "vitamin_a": 200.0,
+                "vitamin_b": 0.4,
+                "iron": 1.2,
+                "omega_3": 0.1
+            }
+        },
+        "100ml hot & sour soup": {
+            "macros": {
+                "calories": 40.0,
+                "protein": 2.0,
+                "carbs": 6.0,
+                "fats": 1.0
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 5.0,
+                "vitamin_a": 10.0,
+                "vitamin_b": 0.1,
+                "iron": 0.3,
+                "omega_3": 0.0
+            }
+        },
+        "100ml chicken hot & sour soup": {
+            "macros": {
+                "calories": 60.0,
+                "protein": 5.0,
+                "carbs": 4.0,
+                "fats": 2.0
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 6.0,
+                "vitamin_a": 15.0,
+                "vitamin_b": 0.3,
+                "iron": 0.4,
+                "omega_3": 0.1
+            }
+        },
+        "1 piece paneer tikka (50g)": {
+            "macros": {
+                "calories": 150.0,
+                "protein": 6.0,
+                "carbs": 6.0,
+                "fats": 12.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 10.0,
+                "vitamin_a": 100.0,
+                "vitamin_b": 0.3,
+                "iron": 0.5,
+                "omega_3": 0.0
+            }
+        },
+        "1 piece tandoori chicken (100g)": {
+            "macros": {
+                "calories": 190.0,
+                "protein": 28.0,
+                "carbs": 3.0,
+                "fats": 7.0
+            },
+            "micros": {
+                "zinc": 0.8,
+                "magnesium": 22.0,
+                "vitamin_a": 50.0,
+                "vitamin_b": 0.6,
+                "iron": 1.0,
+                "omega_3": 0.1
+            }
+        },
+        "1 chicken tikka (80g)": {
+            "macros": {
+                "calories": 160.0,
+                "protein": 25.0,
+                "carbs": 2.0,
+                "fats": 6.0
+            },
+            "micros": {
+                "zinc": 0.7,
+                "magnesium": 20.0,
+                "vitamin_a": 40.0,
+                "vitamin_b": 0.5,
+                "iron": 0.8,
+                "omega_3": 0.0
+            }
+        },
+        "1 piece tandoori malai chaap (75g)": {
+            "macros": {
+                "calories": 180.0,
+                "protein": 12.0,
+                "carbs": 4.0,
+                "fats": 14.0
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 15.0,
+                "vitamin_a": 50.0,
+                "vitamin_b": 0.4,
+                "iron": 0.6,
+                "omega_3": 0.1
+            }
+        }
+    },
+    "grains_and_flours": {
+        "100g oats": {
+            "macros": {
+                "calories": 389.0,
+                "protein": 16.9,
+                "carbs": 66.3,
+                "fats": 6.9
+            },
+            "micros": {
+                "zinc": 3.1,
+                "magnesium": 177.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.6,
+                "iron": 4.7,
+                "omega_3": 0.1
+            }
+        },
+        "100g besan (gram flour)": {
+            "macros": {
+                "calories": 387.0,
+                "protein": 22.0,
+                "carbs": 58.0,
+                "fats": 6.7
+            },
+            "micros": {
+                "zinc": 2.9,
+                "magnesium": 166.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.5,
+                "iron": 4.9,
+                "omega_3": 0.0
+            }
+        },
+        "100g suji (semolina)": {
+            "macros": {
+                "calories": 360.0,
+                "protein": 12.0,
+                "carbs": 72.0,
+                "fats": 1.0
+            },
+            "micros": {
+                "zinc": 0.6,
+                "magnesium": 47.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.3,
+                "iron": 1.2,
+                "omega_3": 0.0
+            }
+        },
+        "100g rawa (coarse semolina)": {
+            "macros": {
+                "calories": 360.0,
+                "protein": 12.7,
+                "carbs": 73.0,
+                "fats": 1.1
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 36.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.3,
+                "iron": 1.8,
+                "omega_3": 0.0
+            }
+        },
+        "100g flax seeds": {
+            "macros": {
+                "calories": 534.0,
+                "protein": 18.0,
+                "carbs": 29.0,
+                "fats": 42.0
+            },
+            "micros": {
+                "zinc": 4.3,
+                "magnesium": 392.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.6,
+                "iron": 5.7,
+                "omega_3": 22.8
+            }
+        },
+        "100g chia seeds": {
+            "macros": {
+                "calories": 486.0,
+                "protein": 16.5,
+                "carbs": 42.1,
+                "fats": 30.7
+            },
+            "micros": {
+                "zinc": 4.6,
+                "magnesium": 335.0,
+                "vitamin_a": 54.0,
+                "vitamin_b": 0.8,
+                "iron": 7.7,
+                "omega_3": 17.8
+            }
+        },
+        "100g almonds (badaam)": {
+            "macros": {
+                "calories": 579.0,
+                "protein": 21.0,
+                "carbs": 21.6,
+                "fats": 49.9
+            },
+            "micros": {
+                "zinc": 3.1,
+                "magnesium": 270.0,
+                "vitamin_a": 1.0,
+                "vitamin_b": 0.6,
+                "iron": 3.7,
+                "omega_3": 0.0
+            }
+        },
+        "100g cashews (kaju)": {
+            "macros": {
+                "calories": 553.0,
+                "protein": 18.2,
+                "carbs": 30.2,
+                "fats": 43.8
+            },
+            "micros": {
+                "zinc": 5.8,
+                "magnesium": 292.0,
+                "vitamin_a": 0.0,
+                "vitamin_b": 0.5,
+                "iron": 6.7,
+                "omega_3": 0.1
+            }
+        },
+        "100g saffron (kesar)": {
+            "macros": {
+                "calories": 310.0,
+                "protein": 11.4,
+                "carbs": 65.4,
+                "fats": 5.8
+            },
+            "micros": {
+                "zinc": 2.0,
+                "magnesium": 264.0,
+                "vitamin_a": 530.0,
+                "vitamin_b": 0.3,
+                "iron": 11.1,
+                "omega_3": 0.0
+            }
+        },
+        "100g walnuts": {
+            "macros": {
+                "calories": 654.0,
+                "protein": 15.2,
+                "carbs": 13.7,
+                "fats": 65.2
+            },
+            "micros": {
+                "zinc": 3.1,
+                "magnesium": 158.0,
+                "vitamin_a": 20.0,
+                "vitamin_b": 0.6,
+                "iron": 2.9,
+                "omega_3": 9.1
+            }
+        },
+        "100ml skimmed milk": {
+            "macros": {
+                "calories": 35.0,
+                "protein": 3.6,
+                "carbs": 5.0,
+                "fats": 0.1
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 12.0,
+                "vitamin_a": 50.0,
+                "vitamin_b": 0.4,
+                "iron": 0.1,
+                "omega_3": 0.0
+            }
+        },
+        "100ml toned milk": {
+            "macros": {
+                "calories": 60.0,
+                "protein": 3.1,
+                "carbs": 4.9,
+                "fats": 3.0
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 12.0,
+                "vitamin_a": 50.0,
+                "vitamin_b": 0.4,
+                "iron": 0.1,
+                "omega_3": 0.0
+            }
+        },
+        "100ml full cream milk": {
+            "macros": {
+                "calories": 70.0,
+                "protein": 3.2,
+                "carbs": 4.8,
+                "fats": 4.5
+            },
+            "micros": {
+                "zinc": 0.4,
+                "magnesium": 12.0,
+                "vitamin_a": 60.0,
+                "vitamin_b": 0.4,
+                "iron": 0.1,
+                "omega_3": 0.0
+            }
+        },
+        "100g spinach": {
+            "macros": {
+                "calories": 23.0,
+                "protein": 2.9,
+                "carbs": 3.6,
+                "fats": 0.4
+            },
+            "micros": {
+                "zinc": 0.5,
+                "magnesium": 79.0,
+                "vitamin_a": 9377.0,
+                "vitamin_b": 0.6,
+                "iron": 2.7,
+                "omega_3": 0.1
+            }
+        },
+        "100g fenugreek leaves": {
+            "macros": {
+                "calories": 49.0,
+                "protein": 4.0,
+                "carbs": 8.0,
+                "fats": 1.0
+            },
+            "micros": {
+                "zinc": 0.6,
+                "magnesium": 54.0,
+                "vitamin_a": 630.0,
+                "vitamin_b": 0.3,
+                "iron": 1.9,
+                "omega_3": 0.0
+            }
+        },
+        "100g apple": {
+            "macros": {
+                "calories": 52.0,
+                "protein": 0.3,
+                "carbs": 14.0,
+                "fats": 0.2
+            },
+            "micros": {
+                "zinc": 0.1,
+                "magnesium": 5.0,
+                "vitamin_a": 54.0,
+                "vitamin_b": 0.1,
+                "iron": 0.1,
+                "omega_3": 0.0
+            }
+        },
+        "100g banana": {
+            "macros": {
+                "calories": 89.0,
+                "protein": 1.1,
+                "carbs": 23.0,
+                "fats": 0.3
+            },
+            "micros": {
+                "zinc": 0.2,
+                "magnesium": 27.0,
+                "vitamin_a": 64.0,
+                "vitamin_b": 0.4,
+                "iron": 0.3,
+                "omega_3": 0.0
+            }
+        }
+    },
+    "indian_vegetables": {
+        "spinach": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 23,
+                "protein": 2.9,
+                "carbs": 3.6,
+                "fats": 0.4
+            },
+            "micros": {
+                "iron": 2.7,
+                "calcium": 99,
+                "vitamin_a": 9377,
+                "vitamin_c": 28.1
+            }
+        },
+        "fenugreek leaves": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 49,
+                "protein": 4.0,
+                "carbs": 8.0,
+                "fats": 1.0
+            },
+            "micros": {
+                "iron": 1.9,
+                "calcium": 395,
+                "vitamin_a": 630,
+                "vitamin_c": 52
+            }
+        },
+        "ladyfinger": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 33,
+                "protein": 1.9,
+                "carbs": 7.5,
+                "fats": 0.2
+            },
+            "micros": {
+                "iron": 0.8,
+                "calcium": 82,
+                "vitamin_a": 375,
+                "vitamin_c": 21.1
+            }
+        },
+        "bottle gourd": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 14,
+                "protein": 0.6,
+                "carbs": 3.4,
+                "fats": 0.1
+            },
+            "micros": {
+                "iron": 0.2,
+                "calcium": 26,
+                "vitamin_c": 12
+            }
+        },
+        "eggplant": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 25,
+                "protein": 1.0,
+                "carbs": 6.0,
+                "fats": 0.2
+            },
+            "micros": {
+                "iron": 0.2,
+                "calcium": 9,
+                "vitamin_c": 2.2
+            }
+        },
+        "tomato": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 18,
+                "protein": 0.9,
+                "carbs": 3.9,
+                "fats": 0.2
+            },
+            "micros": {
+                "iron": 0.3,
+                "calcium": 10,
+                "vitamin_a": 833,
+                "vitamin_c": 13.7
+            }
+        },
+        "potato": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 77,
+                "protein": 2.0,
+                "carbs": 17.5,
+                "fats": 0.1
+            },
+            "micros": {
+                "iron": 0.8,
+                "calcium": 12,
+                "vitamin_c": 19.7
+            }
+        },
+        "carrot": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 41,
+                "protein": 0.9,
+                "carbs": 9.6,
+                "fats": 0.2
+            },
+            "micros": {
+                "iron": 0.3,
+                "calcium": 33,
+                "vitamin_a": 16706,
+                "vitamin_c": 5.9
+            }
+        },
+        "green peas": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 81,
+                "protein": 5.4,
+                "carbs": 14.5,
+                "fats": 0.4
+            },
+            "micros": {
+                "iron": 1.5,
+                "calcium": 25,
+                "vitamin_a": 765,
+                "vitamin_c": 40
+            }
+        }
+    },
+    "indian_fruits": {
+        "mango": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 60,
+                "protein": 0.8,
+                "carbs": 15.0,
+                "fats": 0.4
+            },
+            "micros": {
+                "iron": 0.2,
+                "calcium": 11,
+                "vitamin_a": 1082,
+                "vitamin_c": 36.4
+            }
+        },
+        "banana": {
+            "quantity": "1 medium (~118g)",
+            "macros": {
+                "calories": 105,
+                "protein": 1.3,
+                "carbs": 27.0,
+                "fats": 0.3
+            },
+            "micros": {
+                "iron": 0.3,
+                "calcium": 5,
+                "vitamin_c": 10.3
+            }
+        },
+        "apple": {
+            "quantity": "1 medium (~182g)",
+            "macros": {
+                "calories": 95,
+                "protein": 0.5,
+                "carbs": 25.0,
+                "fats": 0.3
+            },
+            "micros": {
+                "iron": 0.1,
+                "calcium": 11,
+                "vitamin_c": 8.4
+            }
+        },
+        "pomegranate": {
+            "quantity": "100g seeds",
+            "macros": {
+                "calories": 83,
+                "protein": 1.7,
+                "carbs": 18.7,
+                "fats": 1.2
+            },
+            "micros": {
+                "iron": 0.3,
+                "calcium": 10,
+                "vitamin_c": 10.2
+            }
+        },
+        "guava": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 68,
+                "protein": 2.6,
+                "carbs": 14.3,
+                "fats": 0.9
+            },
+            "micros": {
+                "iron": 0.3,
+                "calcium": 18,
+                "vitamin_c": 228.3
+            }
+        },
+        "watermelon": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 30,
+                "protein": 0.6,
+                "carbs": 7.6,
+                "fats": 0.2
+            },
+            "micros": {
+                "iron": 0.2,
+                "calcium": 7,
+                "vitamin_c": 8.1
+            }
+        },
+        "papaya": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 43,
+                "protein": 0.5,
+                "carbs": 11.0,
+                "fats": 0.3
+            },
+            "micros": {
+                "iron": 0.1,
+                "calcium": 20,
+                "vitamin_a": 950,
+                "vitamin_c": 60.9
+            }
+        },
+        "pineapple": {
+            "quantity": "100g",
+            "macros": {
+                "calories": 50,
+                "protein": 0.5,
+                "carbs": 13.1,
+                "fats": 0.1
+            },
+            "micros": {
+                "iron": 0.3,
+                "calcium": 13,
+                "vitamin_c": 47.8
+            }
+        }
+    }
+}
+
+
+
+  
+
+
+
+  
+
