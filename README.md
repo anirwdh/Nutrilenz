@@ -26,13 +26,17 @@ NutriLenz is a Flutter-based mobile application designed to provide comprehensiv
 ## Screenshots
 
 ![Home Screen](<img width="1617" alt="Screenshot 2024-12-17 at 6 29 23 PM" src="https://github.com/user-attachments/assets/c887454b-40c6-4a66-8e78-abcf4184266c" />
-)
+) <img width="1617" alt="Screenshot 2024-12-17 at 6 29 23 PM" src="https://github.com/user-attachments/assets/d531ca8e-a6b2-41f0-840d-da77ffc924cf" />
+
 *Home screen displaying search options.*
 
 
 
 ![Personalized Intake](<img width="1617" alt="Screenshot 2024-12-17 at 6 30 08 PM" src="https://github.com/user-attachments/assets/679ed0ea-b65a-4b5e-9e3c-53a87dfac753" />
-)
+)<img width="1617" alt="Screenshot 2024-12-17 at 6 30 00 PM" src="https://github.com/user-attachments/assets/246e8c20-7459-4ef9-9edb-b3c9fc653c71" />
+<img width="1617" alt="Screenshot 2024-12-17 at 6 30 08 PM" src="https://github.com/user-attachments/assets/0415d6cb-effd-40a9-9cc2-77fb9b7179df" />
+
+
 *Personalized daily nutrition intake recommendations.*
 
 ## Getting Started
